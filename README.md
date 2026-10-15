@@ -5,7 +5,7 @@ This framework is designed to enable the construction of complex, high-level com
 
 1. Damian Arellanes. [Compositional Separation of Control Flow and Data Flow](https://arxiv.org/pdf/2309.06397). Journal of Logical and Algebraic Methods in Programming, 2026. [DOI](https://doi.org/10.1016/j.jlamp.2026.101125)
 2. Damian Arellanes. [Compositional Control-Driven Boolean Circuits](https://arxiv.org/pdf/2506.22687). In Proceedings of the 22nd International Conference on Relational and Algebraic Methods in Computer Science (RAMICS), 2026. [DOI](https://doi.org/10.1007/978-3-032-22469-9_2)
-3. Damian Arellanes. [Colimit-Based Composition of High-Level Computing Devices](https://arxiv.org/abs/2602.14904v1). In 21st International Symposium on Logical and Semantic Frameworks with Applications (LSFA), affiliated to the 11th International Conference on Formal structures for Computation and Deduction (FSCD) and part of the 9th Federated Logic Conference (FLoC), 2026. [DOI](https://cgi.cse.unsw.edu.au/~eptcs/paper.cgi?LFSA2026.3) 
+3. Damian Arellanes. [Colimit-Based Composition of High-Level Computing Devices](https://arxiv.org/abs/2602.14904v1). In Proceedings of the 21st International Symposium on Logical and Semantic Frameworks with Applications (LSFA), affiliated to the 11th International Conference on Formal structures for Computation and Deduction (FSCD) and part of the 9th Federated Logic Conference (FLoC), 2026. [DOI](https://cgi.cse.unsw.edu.au/~eptcs/paper.cgi?LFSA2026.3) 
 
 
 ## ⚠️ Development Status
@@ -43,4 +43,4 @@ This project is licensed under the BSD 3-Clause License. See the LICENSE file fo
 
 ## 🖋️ Attribution
 
-If you use this framework in your projects, please consider crediting the author and linking back to this repository. 
+If you use this framework in your projects, please credit the author and link back to this repository. 
